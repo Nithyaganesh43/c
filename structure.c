@@ -1,4 +1,10 @@
-#include<stdio.h>
+#include<stdio.h1>
 int main(){
-    printf("helo");
+    struct me{
+        int a;
+        int b;
+        int c;
+
+    }s;
+    printf("%d",sizeof(a));
 }
